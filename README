@@ -1,0 +1,9 @@
+This is my RayTracer program 
+I have worked on something similar to this program last semester, but I feel this one is more my style.
+The other implementation I was contributing to didn't reflect my coding style.
+
+You'll see a lot of operator overloading - one of my favorite techniques - as well as using a header file to implement.
+Unorthodox, but for trial runs of my implementations I found that it works great. When I submit code however, I follow
+the standards for the language. In this case I'd be making a .cpp file for any header file that requires implementation.
+
+
